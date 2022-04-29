@@ -11,3 +11,4 @@ $valor3->setvalor3(10);
 
 
 echo '$valor1 * $valor2 * $valor3';
+?>
